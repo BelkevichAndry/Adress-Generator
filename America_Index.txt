@@ -1,0 +1,100 @@
+﻿San Antonio 78210
+Dallas 75201
+San Diego 92101
+San Francisco 94101
+San Jose 95101
+New York 10001
+New York 10001
+Los Angeles 90001
+New York 10001
+Charlotte 28201
+Columbus 43201
+El Paso 79900
+Memphis 37501
+Detroit 48201
+Indianapolis 46201
+Philadelphia 19191
+New York 10001
+Houston 77001
+Chicago 60601
+Phoenix 85001
+Jacksonville 32201
+New York 10001
+Austin 78701
+New York 10001
+Phoenix 85001
+Chicago 60601
+San Antonio 78210
+San Diego 92101
+Jacksonville 32201
+Columbus 43201
+Dallas 75201
+New York 10001
+Houston 77001
+Philadelphia 19191
+San Jose 95101
+Los Angeles 90001
+New York 10001
+New York 10001
+New York 10001
+Indianapolis 46201
+San Diego 92101
+Philadelphia 19191
+Chicago 60601
+Los Angeles 90001
+Chicago 60601
+New York 10001
+Houston 77001
+New York 10001
+New York 10001
+Memphis 37501
+Charlotte 28201
+Detroit 48201
+Phoenix 85001
+New York 10001
+San Francisco 94101
+Austin 78701
+San Antonio 78210
+New York 10001
+New York 10001
+Los Angeles 90001
+Los Angeles 90001
+El Paso 79900
+Phoenix 85001
+Chicago 60601
+Houston 77001
+Dallas 75201
+Philadelphia 19191
+Philadelphia 19191
+New York 10001
+New York 10001
+Houston 77001
+Chicago 60601
+Los Angeles 90001
+Los Angeles 90001
+San Diego 92101
+San Antonio 78210
+San Jose 95101
+Austin 78701
+San Diego 92101
+San Antonio 78210
+Dallas 75201
+San Diego 92101
+San Francisco 94101
+San Jose 95101
+New York 10001
+New York 10001
+Los Angeles 90001
+New York 10001
+Charlotte 28201
+Columbus 43201
+El Paso 79900
+Memphis 37501
+Detroit 48201
+Indianapolis 46201
+Philadelphia 19191
+New York 10001
+Houston 77001
+Chicago 60601
+Phoenix 85001
+Jacksonville 32201

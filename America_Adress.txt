@@ -1,0 +1,100 @@
+﻿Cabrini boulevard 64, 13
+Houston Street 83, 72
+Marketfield Street 88, 5
+Mott Street 87, 100
+Marketfield Street 14, 79
+Greenwich Street 54, 26
+23rd Street 14, 63
+Cabrini Boulevard 64, 13
+Houston Street 83, 72
+Marketfield Street 88, 5
+Mott Street 87, 100
+Marketfield Street 14, 79
+Greenwich Street 54, 26
+23rd Street 14, 63
+Third Avenue 32
+Cabrini Boulevard 64, 13
+Houston Street 83, 72
+Marketfield Street 88, 5
+Mott Street 87, 100
+Marketfield Street 14, 79
+Greenwich Street 54, 26
+23rd Street 14, 63
+Third Avenue 32
+Essex Street 44, 10
+Dey Street 67, 100
+Forsyth Street 55
+Cabrini Boulevard 18
+Stanton Street 9
+Greenwich Avenue 8
+Madison Avenue 37
+Jones Street 45
+34th Street 29
+Greenwich Street 54, 26
+Broome Street 13
+Elizabeth Street 47, 7
+Dey Street 43
+West Broadway 16
+Rivington Street 58
+Claremont Avenue 93, 34
+Dey Street 56
+Jones Street 28, 15
+West Drive 84
+Stanton Street 47, 64
+Cooper Square 63, 44
+Washington Mews 13, 78
+Worth Street 25
+Essex Street 14
+Park Avenue 46
+Jones Street 26, 85
+Stanton Street 73, 93
+West Broadway 77, 62
+Claremont Avenue 35
+Sullivan Street 44
+Washington Mews 15, 78
+Mott Street 60
+Delancey Street 94
+Greenwich Avenue 35, 23
+59th Street 7, 35
+Madison Avenue 91, 24
+Third Avenue 37, 81
+Bleecker Street 90, 75
+34th Street 51, 55
+Chatham Square 64, 73
+Dyer Avenue 40
+MacDougal Street 15
+Sylvan Place 6
+Broome Street 6
+Sylvan Place 43, 11
+Leonard Street 32, 31
+14th Street 70, 74
+Wall Street 61, 36
+Essex Street 51, 4
+Varick Street 82, 7
+Orchard Street 50
+Essex Street 14
+Park Avenue 53, 90
+59th Street 39
+Lexington Avenue 23
+Stanton Street 89
+Bogardus Place 9
+14th Street 92
+60th Street 43
+Third Avenue 7, 13
+34th Street 59, 77
+Sullivan Street 59, 77
+Bleecker Street 5
+Chatham Square 65, 15
+Third Avenue 95, 92
+Greenwich Avenue 94
+Stanton Street 10
+University Place 20
+Greenwich Avenue 94
+Madison Avenue 22, 89
+Lenox Avenue 99
+57th Street 80
+Lexington Avenue 2
+Mott Street 60
+Dyer Avenue 8
+Essex Street 2, 9
+Leonard Street 93
